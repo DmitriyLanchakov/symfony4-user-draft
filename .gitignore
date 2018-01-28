@@ -1,0 +1,19 @@
+
+###> symfony/framework-bundle ###
+.env
+/public/bundles/
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+.idea
+.directory
+
+/var/cache/*
+/var/logs/*
+/vendor/*
+
+/web/cache/*
+/web/uploads/images/*
+
+!.gitkeep
